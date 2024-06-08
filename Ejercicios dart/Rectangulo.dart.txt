@@ -1,0 +1,24 @@
+void main() {
+  
+  Rectangulo rect = new Rectangulo(largo : 5 , ancho : 6);  
+  
+  
+  print(rect.area);
+}
+
+
+class Rectangulo
+{
+  //propiedades
+  final double largo;
+  final double ancho;
+  //constructor 
+  Rectangulo({required this.ancho, required this.largo})
+  {   
+  }
+  
+  //Comportamiento 
+  
+  double get area => this.ancho * this.largo;
+  
+}

@@ -1,0 +1,24 @@
+void main() {
+  
+  final Map<String, dynamic> mascota =
+                  {'Nombre' : 'Apolo' ,
+                   'raza' : 'Terrier'};
+  
+ Map nuevaMascota = copiarArreglo(mascota);
+  
+  mascota.clear();
+  
+  print(nuevaMascota);
+}
+
+Map copiarArreglo(Map mascota )
+{
+  
+  Map  copiaMascota = {}; 
+  for (Map  llave in mascota.values)
+  {
+      copiaMascota.addAll(llave);
+  }
+  
+  return copiaMascota;
+}

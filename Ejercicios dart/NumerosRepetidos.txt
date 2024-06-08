@@ -1,0 +1,20 @@
+void main() {
+  
+  List<int>  numeros = [1,2,43, 34, 124, 12,2,34];
+  
+  duplicado(numeros);
+}
+
+bool duplicado(List<int> numeros)
+{
+ List<int> unicos = [];
+  
+  for (int numero in numeros )
+  {
+    if(unicos.contains(numero))
+    {
+      return false;
+    }
+  }
+  return true;
+}
