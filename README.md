@@ -116,7 +116,7 @@ La NASA maneja proyectos donde los errores no son una opción. Sus servicios TI 
 
 ---
 
-### 🏛️ **Conclusión**
+### 🏛️ **En resumen sobre los casos de exito**
 
 Estos casos reales muestran que ITIL no es solo un marco teórico, sino una herramienta versátil que puede adaptarse a diferentes industrias y culturas organizacionales. Su implementación mejora la calidad del servicio, facilita la toma de decisiones y convierte la gestión de TI en un pilar estratégico del negocio.
 
