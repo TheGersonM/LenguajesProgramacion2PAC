@@ -130,11 +130,39 @@ Estos casos reales muestran que ITIL no es solo un marco teórico, sino una herr
 ## 🔧 Herramientas que apoyan ITIL
 
 Para aplicar ITIL con efectividad se necesitan herramientas. Algunas de las más usadas a nivel empresarial son:
+  
+- #### 📊 **ServiceNow**
 
-- **ServiceNow**: Plataforma en la nube para gestión de servicios, automatización y flujos de aprobación.
-- **BMC Remedy**: Muy robusta, orientada a grandes organizaciones con procesos complejos.
-- **Ivanti**: Integra gestión de activos, incidentes y cambios.
-- **Jira Service Management**: Enfoque ágil, ideal para empresas que ya usan herramientas de Atlassian.
+* Plataforma líder para la gestión de servicios TI (ITSM).
+* Ofrece flujos de trabajo automatizados, integración con CMDB, y dashboards personalizados.
+* Permite implementar ITIL de forma escalable y controlada.
+
+#### 📈 **BMC Remedy**
+
+* Amplia funcionalidad para la gestión de incidentes, problemas, cambios y activos.
+* Fuerte enfoque en cumplimiento y auditoría.
+* Muy usado en sectores como salud, banca y telecomunicaciones.
+
+  
+#### 🛠️ **Ivanti Service Manager**
+
+* Integra ITSM con la gestión de activos y seguridad TI.
+* Interfaz intuitiva y flexible para empresas medianas y grandes.
+* Se destaca por su enfoque en automatización de procesos repetitivos.
+
+  
+#### 🔢 **Jira Service Management**
+
+* Basado en la filosofía Agile y DevOps.
+* Ideal para equipos que ya usan Jira en desarrollo de software.
+* Fácil de integrar con flujos de desarrollo continuo y despliegue (CI/CD).
+
+**Beneficios comunes de estas herramientas:**
+
+* Registro estructurado de incidentes y solicitudes.
+* Automatización de aprobaciones, asignaciones y escalamientos.
+* Reportes visuales que permiten tomar decisiones basadas en datos.
+* Mejora en la comunicación entre equipos y áreas organizacionales.
 
 Estas herramientas no implementan ITIL por sí solas, pero **permiten operativizar los procesos definidos**, generando tickets, aprobaciones, reportes y dashboards en tiempo real.
 
